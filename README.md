@@ -22,7 +22,7 @@ A Metal-based shader animation project that creates a wave-like effect using Met
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/WavesMetal.git
+git clone https://github.com/mertozseven/WavesMetal.git
 cd WavesMetal
 ```
 
