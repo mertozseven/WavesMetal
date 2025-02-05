@@ -33,7 +33,7 @@ Add `MetalView` to your `HomeViewController`:
 
 ```swift
 final class HomeViewController: UIViewController {
-    lazy var metalView = MetalView(frame: view.frame, animationSpeed: 1.5) // Adjust speed
+    lazy var metalView = MetalView(frame: view.frame, animationSpeed: 0.5) // Adjust speed
 
     override func viewDidLoad() {
         super.viewDidLoad()
